@@ -15,7 +15,8 @@ namespace EmployeeWageComputation
             //Empwage.Dailywage();
             //Empwage.PartTimeEmpWage();
             //Empwage.EmpWageUsingSwitch();
-            Empwage.CalculateWagesFor20DaysInMonth();
+            //Empwage.CalculateWagesFor20DaysInMonth();
+            Empwage.CalculateWageTill100HrsOr20IsReached();
         }
     }
 }
