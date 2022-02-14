@@ -13,7 +13,8 @@ namespace EmployeeWageComputation
             //Console.WriteLine("----------Welcome to Employee Wage Computation Program---------");
             //Empwage.GetAttendance();
             //Empwage.Dailywage();
-            Empwage.PartTimeEmpWage();
+            //Empwage.PartTimeEmpWage();
+            Empwage.EmpWageUsingSwitch();
         }
     }
 }
