@@ -11,7 +11,8 @@ namespace EmployeeWageComputation
         public static void Main()
         {
             //Console.WriteLine("----------Welcome to Employee Wage Computation Program---------");
-            Empwage.GetAttendance();
+            //Empwage.GetAttendance();
+            Empwage.Dailywage();
         }
     }
 }
